@@ -1,0 +1,8 @@
+{
+  "projectName": "LangGraph Agents",
+  "description": "LangGraph-based CLI chatbot with emotional and logical routing",
+  "framework": "langgraph",
+  "pythonVersion": "3.10+",
+  "packageManager": "uv",
+  "modelDefault": "claude-sonnet-4-6"
+}
