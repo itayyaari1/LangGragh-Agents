@@ -12,8 +12,7 @@ env/
 
 # Environment / secrets
 .env
-.env.*
-
+!.env.example
 # VSCode / Cursor
 .vscode/
 .cursor/
